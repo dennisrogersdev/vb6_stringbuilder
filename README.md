@@ -1,7 +1,7 @@
 # VB6 - String Builder
 
-Example:
-
+######Example:
+```
 dim s as new StringBuilder
 
 s.autoNewLine = True
@@ -17,3 +17,5 @@ s.Clear
 s.Add "Teste"
 
 Debug.print s.Text
+```
+
