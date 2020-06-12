@@ -1,6 +1,6 @@
 # VB6 - String Builder
 
-##Example:
+### Example:
 
 ```
 dim s as new StringBuilder
